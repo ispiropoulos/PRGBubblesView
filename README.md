@@ -2,7 +2,7 @@
 
 A UIView subclass that supports showing and selecting / deselecting items in bubble form with animation.
 
-[[ PRGBubblesView.gif | height = 500px ]]
+![PRGBubblesView](https://github.com/ispiropoulos/PRGBubblesView/blob/master/PRGBubblesView.gif?raw=true)
 
 ## Installation
 
@@ -49,18 +49,6 @@ open var selectedBubbleStrokeColor: UIColor // The stroke color of selected bubb
 
 open var dividerColor: UIColor // The color of the horizontal divider
 ```
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-- 3 Nov: Initial Commit
 
 ## Author
 John Spiropoulos
