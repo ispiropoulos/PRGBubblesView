@@ -6,8 +6,11 @@ A UIView subclass that supports showing and selecting / deselecting items in bub
 
 ## Installation
 
-### Manually:
-Copy PRGBubblesView.swift and BendableView.swift to your project.
+Copy PRGBubblesView folder into your project.
+
+## Requirements
+iOS >= 9.x
+Swift 3.0
 
 ## Usage
 
